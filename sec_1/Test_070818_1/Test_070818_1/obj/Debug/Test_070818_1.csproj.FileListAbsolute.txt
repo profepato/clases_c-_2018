@@ -1,0 +1,10 @@
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\bin\Debug\Test_070818_1.exe.config
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\bin\Debug\Test_070818_1.exe
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\bin\Debug\Test_070818_1.pdb
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\obj\Debug\Test_070818_1.csprojAssemblyReference.cache
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\obj\Debug\Test_070818_1.csproj.CoreCompileInputs.cache
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\obj\Debug\Test_070818_1.exe
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\obj\Debug\Test_070818_1.pdb
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\bin\Debug\Model.dll
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\bin\Debug\Model.pdb
+C:\Users\PREZ\source\repos\Test_070818_1\Test_070818_1\obj\Debug\Test_070818_1.csproj.CopyComplete
