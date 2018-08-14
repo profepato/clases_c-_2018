@@ -12,6 +12,7 @@ namespace Test_WF_140818 {
     public partial class Form1 : Form {
         public Form1() {
             InitializeComponent();
+            StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void btnMenu_Click(object sender, EventArgs e) {
