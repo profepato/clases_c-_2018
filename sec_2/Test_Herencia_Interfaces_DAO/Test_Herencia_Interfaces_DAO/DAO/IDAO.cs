@@ -10,6 +10,5 @@ namespace Test_Herencia_Interfaces_DAO.DAO {
         List<T> Read();
         void Update(T ob);
         void Delete(String id);
-        // List<T> FindBy(String exp);
     }
 }

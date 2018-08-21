@@ -11,7 +11,8 @@ namespace Test_Herencia_Interfaces_DAO {
     class Program {
         static void Main(string[] args) {
             DAO_Persona dp = new DAO_Persona();
-
+            // DAO_Trabajador dt = new DAO_Trabajador();
+            
             Console.Write("Cuantas Personas?: ");
             int vueltas = int.Parse(Console.ReadLine());
 
