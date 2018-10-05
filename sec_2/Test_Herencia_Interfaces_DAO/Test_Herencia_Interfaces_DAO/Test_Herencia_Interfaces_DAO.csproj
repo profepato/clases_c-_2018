@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO\DAO_Persona.cs" />
+    <Compile Include="DAO\DAO_Trabajador.cs" />
     <Compile Include="DAO\IDAO.cs" />
     <Compile Include="herencia\Docente.cs" />
     <Compile Include="herencia\Persona.cs" />
